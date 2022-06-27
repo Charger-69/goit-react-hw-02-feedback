@@ -9,6 +9,7 @@ zapoznania się z ustawieniami dodatkowych opcji
 
 ## Przygotowanie nowego projektu
 
+
 1. Upewnij się, że na komputerze zainstalowana jest wersja LTS Node.js.
    [Ściągnij i zainstaluj](https://nodejs.org/en/), jeżeli trzeba.
 2. Sklonuj to repozytorium.
